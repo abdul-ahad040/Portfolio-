@@ -1,0 +1,115 @@
+body{ 
+  font font-family: fantasy, Sans-Serif;
+  margin: 0px;
+  padding: 0px;
+  
+}
+header{
+  padding: 3px;
+  background-color: #1b41a1;
+  margin: 0px;
+  
+  
+  
+}
+#header h1{
+  color: #e4e6eb;
+  font-size: 200%;
+  font-weight: bold;
+  text-shadow:4px 4px 5px #c93070;
+  text-align: center ;
+  
+  
+}
+#header p{
+  color: #ede8e8 ;
+  font-size: 125%;
+  text-align:center ;
+  
+  
+}
+
+#skills h2{
+  color: #161629;
+  text-align: left;
+  padding: 5px;
+  margin: 4px;
+
+  
+}
+#skills p{
+  background-color: #87c76d;
+  width: 20%; 
+  margin-left: 4px;
+  border-radius: 3px;
+  padding: 4px;
+  text-align: center;
+  
+}
+#projects h2{
+  color:#161629 ;
+  text-align: left;
+  padding:5px ;
+  margin: 4px;
+  
+  
+}
+#projects a{
+  text-decoration: none;
+  color: #0ecdeb;
+  
+  
+  
+  
+}
+#projects a:hover{
+  color: #1e7d15;
+  font-weight: bold;
+
+
+}
+#contact h2{
+  color:#161629 ;
+  text-align: left;
+  padding: 5px;
+}
+  #contact label{
+    margin-left: 4px;
+  }
+#contact input{
+  border: 3px solid #2b2630;
+  border-radius: 5px;
+  width: 100%;
+  margin: 4px;
+  
+  
+}
+input:hover{
+  background-color: lightgrey;
+  
+}
+input[type="Submit"]{
+  background-color: #141414;
+  color: #e1e8e7;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+
+
+footer{
+  padding: 5px;
+  background-color: #1b41a1;
+  margin: 0px;
+  text-align: center;
+  color: #e4e6eb;
+
+}
+ #projects::first-a{
+  color: #074506;
+}
+
+
+
+
