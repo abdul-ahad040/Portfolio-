@@ -112,4 +112,15 @@ footer{
 
 
 
+#skills::before{
+    content: "⭐";
+}
+
+#projects::before{
+    content: "⭐";
+}
+#contact::before{
+    content: "⭐";
+}
+
 
