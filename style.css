@@ -37,13 +37,9 @@ header{
 
   
 }
-#skills p{
+#skills button{
   background-color: #87c76d;
-  width: 20%; 
-  margin-left: 4px;
-  border-radius: 3px;
-  padding: 4px;
-  text-align: center;
+
   
 }
 #projects h2{
